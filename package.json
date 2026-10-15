@@ -1,0 +1,9 @@
+{
+  "name": "dependabot-vulnerable",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VerisOps e2e fixture. Pins lodash 4.17.15 (CVE-2020-8203, CVE-2021-23337) so Dependabot raises alerts.",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
